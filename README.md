@@ -44,3 +44,7 @@ Body (JSON) :
 
 Supprimer un étudiant
 DELETE /students/{id}
+
+
+https://github.com/user-attachments/assets/ea3c905a-64af-4de3-9ec2-88215d5afcf8
+
